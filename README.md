@@ -12,6 +12,7 @@ Projeto realizado na trilha <strong>ReactJS</strong> da Next Level Week#4 da [Ro
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 - [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 
 ## 🚀 Instalação
 
@@ -19,7 +20,7 @@ Projeto realizado na trilha <strong>ReactJS</strong> da Next Level Week#4 da [Ro
 git clone https://github.com/davidffa/MoveIt.git
 cd MoveIt
 yarn
-yarn start
+yarn dev
 ```
 
 ### English
@@ -34,6 +35,7 @@ Project developed on <strong>ReactJS</strong> trail of Next Level Week#4 from [R
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 - [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 
 ## 🚀 Installation
 
@@ -41,5 +43,5 @@ Project developed on <strong>ReactJS</strong> trail of Next Level Week#4 from [R
 git clone https://github.com/davidffa/MoveIt.git
 cd MoveIt
 yarn
-yarn start
+yarn dev
 ```
